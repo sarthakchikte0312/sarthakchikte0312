@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Chikte</h1>
-<h3 align="center">Robotics and Chip Desgning</h3>
+<h3 align="center">Robotics and Chip Designing</h3>
 
 
 - 🚀 I am **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level**
