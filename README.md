@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Chikte</h1>
 <h3 align="center">Robotics and Chip Desgning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakchikte0312" alt="sarthakchikte0312" /></a> </p>
 
-- 🚀 About Me **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level**
+- 🚀 I am **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level**
 
 - 🔭 I’m currently working on **16 Array Line Follower Bot usinn STMicroelectronics**
 
