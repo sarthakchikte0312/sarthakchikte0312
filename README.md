@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-chikte-ba8780291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-chikte-ba8780291/" height="30" width="40" /></a>
 <a href="https://instagram.com/sart_akchikte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sart_akchikte" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chikte vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chikte vlogs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chikte vlogs](https://www.youtube.com/@ChikteVolgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chikte vlogs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
