@@ -4,7 +4,7 @@
 
 - 🚀 I am **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level**
 
-- 🔭 I’m currently working on **16 Array Line Follower Bot usinn STMicroelectronics**
+- 🔭 I’m currently working on **16 Array Line Follower Bot using STMicroelectronics**
 
 - 🤝 Collaboration Goals **Looking forward to: Building a strong foundation in semiconductor and Robotics engineering.**
 
