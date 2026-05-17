@@ -4,8 +4,6 @@
 
 - 🚀 I am **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level**
 
-- 🔭 I’m currently working on **RFID-Based Smart Labor Management System with Real-Time Payroll**
-
 - 🤝 Collaboration Goals **Looking forward to: Building a strong foundation in semiconductor and Robotics engineering.**
 
 - 📫 How to reach me **sartakchikte0312@gmail.com**
