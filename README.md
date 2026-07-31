@@ -2,7 +2,7 @@
 <h3 align="center">Robotics and Chip Designing</h3>
 
 
-- 🚀 I am **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level**
+- 🚀 I am **Passionate Electronics and Telecommunication Engineering student with hands-on interest in VLSI, PCB design, chip design, and robotics, aiming to innovate at the hardware level and a 👨‍🌾**
 
 - 🤝 Collaboration Goals **Looking forward to: Building a strong foundation in semiconductor and Robotics engineering.**
 
