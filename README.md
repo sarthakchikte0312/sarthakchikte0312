@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Chikte</h1>
-<h3 align="center">⚡ PCB Designer • Embedded Systems • Robotics • Future Chip Designer</h3>
+<h3 align="center">⚡ PCB Designer • Embedded Systems • Robotics • Chip Designer</h3>
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
