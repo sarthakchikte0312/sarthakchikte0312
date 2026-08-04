@@ -31,7 +31,7 @@ while(alive)
 - 🤖 Building robots that refuse to cooperate
 - ⚙️ Learning Digital IC Design & VLSI
 - 📡 Exploring RF & Antenna Design
-- - 🖥️ Designing PCBs and 3D CAD models
+- 🖥️ Designing PCBs and 3D CAD models
 - 😵 Fighting with datasheets instead of people
 
 
