@@ -13,7 +13,7 @@ while(alive)
     BurnComponents();
     Debug();
     Google();
-    Repeat;
+    Repeat();
 }
 ```
 
